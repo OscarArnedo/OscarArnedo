@@ -103,7 +103,7 @@ My name is **Óscar Arnedo** and I'm a **Computer Engeneer** from Barcelona, Spa
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"  />
   </a>
   <img width="12" />
-  <a href="href="mailto:oscar.arnedo.riccobene@gmail.com" target="blank">
+  <a href="mailto:oscar.arnedo.riccobene@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Mail"  />
   </a>
 </div>
