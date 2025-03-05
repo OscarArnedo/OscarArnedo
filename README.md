@@ -2,7 +2,7 @@
 
 ###
 
-My name is **Óscar Arnedo** and I'm a **full stack developer** from Barcelona, Spain.
+My name is **Óscar Arnedo** and I'm a **Computer Engeneer** from Barcelona, Spain.
 
 ###
 
@@ -10,10 +10,10 @@ My name is **Óscar Arnedo** and I'm a **full stack developer** from Barcelona, 
 
 ###
 
-✨ Graduated in 2025 with a degree in Computer Engineering<br>
-💼 Over 3 years of experience in software development<br>
-📚 I'm currently learning about technology & business<br>
-🎯 Goals: Develop innovative software solutions that solve real-world problems
+📚 Graduated in 2025 with a Degree in Computer Engineering for Management and Information Systems.<br>
+💼 Over 3 years of experience in software development.<br>
+🎯 Goals: Develop innovative software solutions that solve real-world problems.<br>
+✨ Fun fact: I'm a big fan of poker and I like to study it to improve my skills.
 
 ###
 <h2 align="left">I code with</h2>
